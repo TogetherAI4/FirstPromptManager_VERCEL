@@ -1,3 +1,8 @@
 Flask
+flask_sqlalchemy
+psycopg2-binary
+gradio
+gpt4all
+huggingface_hub
 Werkzeug
 pandas
